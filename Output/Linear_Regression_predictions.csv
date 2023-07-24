@@ -1,0 +1,715 @@
+Year,Country,State,Predicted Immigration
+2024,China,Alabama,252.3159081
+2025,China,Alabama,251.9418327
+2024,China,Alaska,-340.6063244
+2025,China,Alaska,-376.5809434
+2024,China,Arizona,9319.023359
+2025,China,Arizona,10114.75853
+2024,China,Arkansas,1634.370644
+2025,China,Arkansas,1771.182988
+2024,China,California,645215.3286
+2025,China,California,701901.8165
+2024,China,Colorado,6271.749747
+2025,China,Colorado,6787.545755
+2024,China,Connecticut,6588.763297
+2025,China,Connecticut,7131.895171
+2024,China,Delaware,1626.809547
+2025,China,Delaware,1758.868745
+2024,China,District of Columbia,-1912.613191
+2025,China,District of Columbia,-2096.831293
+2024,China,Florida,14861.93766
+2025,China,Florida,16055.48704
+2024,China,Georgia,14312.15745
+2025,China,Georgia,15508.74797
+2024,China,Hawaii,3458.364609
+2025,China,Hawaii,3706.132538
+2024,China,Idaho,131.6051278
+2025,China,Idaho,133.0871067
+2024,China,Illinois,15173.68309
+2025,China,Illinois,16360.5556
+2024,China,Indiana,4615.651775
+2025,China,Indiana,4989.122891
+2024,China,Iowa,-956.5097582
+2025,China,Iowa,-1062.997927
+2024,China,Kansas,-390.4580003
+2025,China,Kansas,-447.0501916
+2024,China,Kentucky,1564.215368
+2025,China,Kentucky,1684.053997
+2024,China,Louisiana,553.669228
+2025,China,Louisiana,580.207413
+2024,China,Maine,-1177.303977
+2025,China,Maine,-1291.788822
+2024,China,Maryland,13324.52793
+2025,China,Maryland,14406.10699
+2024,China,Massachusetts,18722.44284
+2025,China,Massachusetts,20191.40635
+2024,China,Michigan,17988.97038
+2025,China,Michigan,19540.22135
+2024,China,Minnesota,2038.359802
+2025,China,Minnesota,2176.155163
+2024,China,Mississippi,-205.082914
+2025,China,Mississippi,-234.524632
+2024,China,Missouri,3789.308016
+2025,China,Missouri,4091.745326
+2024,China,Montana,797.6602184
+2025,China,Montana,865.9189963
+2024,China,Nebraska,-1257.528343
+2025,China,Nebraska,-1382.398224
+2024,China,Nevada,10920.1881
+2025,China,Nevada,11850.41461
+2024,China,New Hampshire,-1201.691072
+2025,China,New Hampshire,-1321.888821
+2024,China,New Jersey,4842.741363
+2025,China,New Jersey,5074.838566
+2024,China,New Mexico,485.1809448
+2025,China,New Mexico,519.0949462
+2024,China,New York,34965.04848
+2025,China,New York,36432.39609
+2024,China,North Carolina,207.676394
+2025,China,North Carolina,146.7465384
+2024,China,North Dakota,-188.35729
+2025,China,North Dakota,-209.6406322
+2024,China,Ohio,13978.99156
+2025,China,Ohio,15166.62143
+2024,China,Oklahoma,443.9576205
+2025,China,Oklahoma,464.7502848
+2024,China,Oregon,14308.23663
+2025,China,Oregon,15548.31161
+2024,China,Pennsylvania,3877.955303
+2025,China,Pennsylvania,4057.99056
+2024,China,Rhode Island,-356.5645356
+2025,China,Rhode Island,-399.5005205
+2024,China,South Carolina,2750.297731
+2025,China,South Carolina,2977.465584
+2024,China,South Dakota,-429.4165159
+2025,China,South Dakota,-471.8086053
+2024,China,Tennessee,5353.880731
+2025,China,Tennessee,5798.220476
+2024,China,Texas,1127.642806
+2025,China,Texas,949.4325424
+2024,China,Utah,4527.243837
+2025,China,Utah,4916.396176
+2024,China,Vermont,-34.13012953
+2025,China,Vermont,-41.36411679
+2024,China,Virginia,3255.494211
+2025,China,Virginia,3437.145516
+2024,China,Washington,22904.48497
+2025,China,Washington,24800.49359
+2024,China,West Virginia,725.8815082
+2025,China,West Virginia,785.8194213
+2024,China,Wisconsin,4228.985542
+2025,China,Wisconsin,4575.162785
+2024,China,Wyoming,-459.1107688
+2025,China,Wyoming,-503.0347595
+2024,India,Alabama,3543.047701
+2025,India,Alabama,3836.907726
+2024,India,Alaska,-2730.006371
+2025,India,Alaska,-2979.791748
+2024,India,Arizona,71789.50969
+2025,India,Arizona,78244.02386
+2024,India,Arkansas,17152.78211
+2025,India,Arkansas,18692.73918
+2024,India,California,-11431.15562
+2025,India,California,-13729.08585
+2024,India,Colorado,29954.82762
+2025,India,Colorado,32637.59641
+2024,India,Connecticut,41658.55526
+2025,India,Connecticut,45353.43738
+2024,India,Delaware,18969.80297
+2025,India,Delaware,20667.56846
+2024,India,District of Columbia,-1963.815816
+2025,India,District of Columbia,-2147.386236
+2024,India,Florida,249628.877
+2025,India,Florida,272144.7768
+2024,India,Georgia,71754.95653
+2025,India,Georgia,78047.9942
+2024,India,Hawaii,1766.460225
+2025,India,Hawaii,1924.900022
+2024,India,Idaho,3725.271586
+2025,India,Idaho,4058.906775
+2024,India,Illinois,88106.52643
+2025,India,Illinois,95715.14549
+2024,India,Indiana,27836.74563
+2025,India,Indiana,30303.61333
+2024,India,Iowa,-17720.09981
+2025,India,Iowa,-19354.95118
+2024,India,Kansas,26224.6823
+2025,India,Kansas,28583.51937
+2024,India,Kentucky,7304.926941
+2025,India,Kentucky,7941.340912
+2024,India,Louisiana,3783.509457
+2025,India,Louisiana,4108.146389
+2024,India,Maine,-1811.485341
+2025,India,Maine,-1979.972582
+2024,India,Maryland,-58308.63608
+2025,India,Maryland,-63755.05093
+2024,India,Massachusetts,80508.86324
+2025,India,Massachusetts,87655.3214
+2024,India,Michigan,-129144.5222
+2025,India,Michigan,-141042.4379
+2024,India,Minnesota,62381.66945
+2025,India,Minnesota,67983.41698
+2024,India,Mississippi,-7291.650772
+2025,India,Mississippi,-7971.543367
+2024,India,Missouri,41763.29147
+2025,India,Missouri,45516.96847
+2024,India,Montana,1478.954661
+2025,India,Montana,1612.422298
+2024,India,Nebraska,8360.984394
+2025,India,Nebraska,9107.345606
+2024,India,Nevada,20811.735
+2025,India,Nevada,22684.96561
+2024,India,New Hampshire,-6607.790565
+2025,India,New Hampshire,-7226.178626
+2024,India,New Jersey,218769.9403
+2025,India,New Jersey,237973.1564
+2024,India,New Mexico,4166.991299
+2025,India,New Mexico,4537.526153
+2024,India,New York,-30942.09989
+2025,India,New York,-34175.4557
+2024,India,North Carolina,302799.1028
+2025,India,North Carolina,330201.3849
+2024,India,North Dakota,4493.462723
+2025,India,North Dakota,4899.107539
+2024,India,Ohio,42154.26094
+2025,India,Ohio,45850.89783
+2024,India,Oklahoma,5187.678437
+2025,India,Oklahoma,5636.094554
+2024,India,Oregon,-923.3188472
+2025,India,Oregon,-1049.820755
+2024,India,Pennsylvania,-29943.34644
+2025,India,Pennsylvania,-32892.10479
+2024,India,Rhode Island,1175.13791
+2025,India,Rhode Island,1273.397022
+2024,India,South Carolina,34579.97235
+2025,India,South Carolina,37691.41564
+2024,India,South Dakota,636.877213
+2025,India,South Dakota,692.0854896
+2024,India,Tennessee,-44601.78442
+2025,India,Tennessee,-48721.44603
+2024,India,Texas,278249.0813
+2025,India,Texas,302982.2726
+2024,India,Utah,17156.39712
+2025,India,Utah,18701.70369
+2024,India,Vermont,-13181.00703
+2025,India,Vermont,-14383.49465
+2024,India,Virginia,151348.2444
+2025,India,Virginia,164870.723
+2024,India,Washington,151407.3217
+2025,India,Washington,164968.2304
+2024,India,West Virginia,427.4712105
+2025,India,West Virginia,461.5182134
+2024,India,Wisconsin,24360.90982
+2025,India,Wisconsin,26520.39087
+2024,India,Wyoming,58.10207518
+2025,India,Wyoming,62.19685029
+2024,Dominican Republic,Alabama,779.0234594
+2025,Dominican Republic,Alabama,848.0902043
+2024,Dominican Republic,Alaska,-367.6281362
+2025,Dominican Republic,Alaska,-405.1975773
+2024,Dominican Republic,Arizona,3670.541736
+2025,Dominican Republic,Arizona,3999.508874
+2024,Dominican Republic,Arkansas,-1436.295729
+2025,Dominican Republic,Arkansas,-1568.086721
+2024,Dominican Republic,California,-4602.117516
+2025,Dominican Republic,California,-5036.858018
+2024,Dominican Republic,Colorado,596.1049193
+2025,Dominican Republic,Colorado,647.7862616
+2024,Dominican Republic,Connecticut,-1831.656347
+2025,Dominican Republic,Connecticut,-2060.466373
+2024,Dominican Republic,Delaware,-244.6009182
+2025,Dominican Republic,Delaware,-272.3786198
+2024,Dominican Republic,District of Columbia,-3353.3273
+2025,Dominican Republic,District of Columbia,-3664.503578
+2024,Dominican Republic,Florida,32325.40798
+2025,Dominican Republic,Florida,35009.50787
+2024,Dominican Republic,Georgia,88.14603703
+2025,Dominican Republic,Georgia,72.802665
+2024,Dominican Republic,Hawaii,-210.9484577
+2025,Dominican Republic,Hawaii,-230.4524929
+2024,Dominican Republic,Idaho,871.3923591
+2025,Dominican Republic,Idaho,950.7822029
+2024,Dominican Republic,Illinois,4240.823373
+2025,Dominican Republic,Illinois,4613.440591
+2024,Dominican Republic,Indiana,2085.145263
+2025,Dominican Republic,Indiana,2268.703119
+2024,Dominican Republic,Iowa,174.9433535
+2025,Dominican Republic,Iowa,189.3422634
+2024,Dominican Republic,Kansas,-1675.88534
+2025,Dominican Republic,Kansas,-1830.172276
+2024,Dominican Republic,Kentucky,1827.203594
+2025,Dominican Republic,Kentucky,1992.041057
+2024,Dominican Republic,Louisiana,-3620.892411
+2025,Dominican Republic,Louisiana,-3960.384894
+2024,Dominican Republic,Maine,5.511887637
+2025,Dominican Republic,Maine,4.707589698
+2024,Dominican Republic,Maryland,7795.822268
+2025,Dominican Republic,Maryland,8477.520128
+2024,Dominican Republic,Massachusetts,-25032.21185
+2025,Dominican Republic,Massachusetts,-27641.82051
+2024,Dominican Republic,Michigan,-2827.360166
+2025,Dominican Republic,Michigan,-3095.776126
+2024,Dominican Republic,Minnesota,5665.368185
+2025,Dominican Republic,Minnesota,6176.88364
+2024,Dominican Republic,Mississippi,2168.61815
+2025,Dominican Republic,Mississippi,2365.192784
+2024,Dominican Republic,Missouri,-2526.482162
+2025,Dominican Republic,Missouri,-2759.875325
+2024,Dominican Republic,Montana,200.6583328
+2025,Dominican Republic,Montana,218.9534308
+2024,Dominican Republic,Nebraska,-945.9064699
+2025,Dominican Republic,Nebraska,-1033.792226
+2024,Dominican Republic,Nevada,760.8631572
+2025,Dominican Republic,Nevada,826.5087809
+2024,Dominican Republic,New Hampshire,9729.929737
+2025,Dominican Republic,New Hampshire,10604.35851
+2024,Dominican Republic,New Jersey,-141225.7247
+2025,Dominican Republic,New Jersey,-154768.6957
+2024,Dominican Republic,New Mexico,1404.331525
+2025,Dominican Republic,New Mexico,1531.8441
+2024,Dominican Republic,New York,-266801.6267
+2025,Dominican Republic,New York,-292872.4069
+2024,Dominican Republic,North Carolina,-11319.07127
+2025,Dominican Republic,North Carolina,-12382.19217
+2024,Dominican Republic,North Dakota,-213.316305
+2025,Dominican Republic,North Dakota,-233.0329785
+2024,Dominican Republic,Ohio,-2084.171792
+2025,Dominican Republic,Ohio,-2290.528665
+2024,Dominican Republic,Oklahoma,-915.2115774
+2025,Dominican Republic,Oklahoma,-1000.511613
+2024,Dominican Republic,Oregon,-864.4588624
+2025,Dominican Republic,Oregon,-944.708206
+2024,Dominican Republic,Pennsylvania,-28902.35024
+2025,Dominican Republic,Pennsylvania,-31737.74406
+2024,Dominican Republic,Rhode Island,-36027.39405
+2025,Dominican Republic,Rhode Island,-39397.74401
+2024,Dominican Republic,South Carolina,-2424.883453
+2025,Dominican Republic,South Carolina,-2649.859934
+2024,Dominican Republic,South Dakota,66.09309534
+2025,Dominican Republic,South Dakota,71.73315947
+2024,Dominican Republic,Tennessee,-3104.116891
+2025,Dominican Republic,Tennessee,-3393.428605
+2024,Dominican Republic,Texas,-4019.037394
+2025,Dominican Republic,Texas,-4414.083301
+2024,Dominican Republic,Utah,4793.317268
+2025,Dominican Republic,Utah,5225.94923
+2024,Dominican Republic,Vermont,1297.732434
+2025,Dominican Republic,Vermont,1415.772069
+2024,Dominican Republic,Virginia,-3754.879319
+2025,Dominican Republic,Virginia,-4111.245778
+2024,Dominican Republic,Washington,2244.775239
+2025,Dominican Republic,Washington,2446.287374
+2024,Dominican Republic,West Virginia,-515.6109007
+2025,Dominican Republic,West Virginia,-563.1954959
+2024,Dominican Republic,Wisconsin,-1744.624483
+2025,Dominican Republic,Wisconsin,-1908.522003
+2024,Dominican Republic,Wyoming,-663.1507372
+2025,Dominican Republic,Wyoming,-723.811846
+2024,Mexico,Alabama,-31299.41084
+2025,Mexico,Alabama,-34187.41308
+2024,Mexico,Alaska,-3961.4506
+2025,Mexico,Alaska,-4328.46967
+2024,Mexico,Arizona,-335313.552
+2025,Mexico,Arizona,-366551.2331
+2024,Mexico,Arkansas,-45507.88091
+2025,Mexico,Arkansas,-49725.53267
+2024,Mexico,California,-6924216.998
+2025,Mexico,California,-7558333.063
+2024,Mexico,Colorado,-91182.80573
+2025,Mexico,Colorado,-99777.92384
+2024,Mexico,Connecticut,62678.86246
+2025,Mexico,Connecticut,68343.14837
+2024,Mexico,Delaware,-8984.623628
+2025,Mexico,Delaware,-9818.267929
+2024,Mexico,District of Columbia,-1486.188354
+2025,Mexico,District of Columbia,-1626.312751
+2024,Mexico,Florida,-191430.9325
+2025,Mexico,Florida,-209178.4473
+2024,Mexico,Georgia,-249068.9481
+2025,Mexico,Georgia,-271976.2391
+2024,Mexico,Hawaii,913.4705148
+2025,Mexico,Hawaii,989.0612723
+2024,Mexico,Idaho,-76069.57333
+2025,Mexico,Idaho,-83050.78954
+2024,Mexico,Illinois,-186578.358
+2025,Mexico,Illinois,-204309.4083
+2024,Mexico,Indiana,-101180.9835
+2025,Mexico,Indiana,-110487.8599
+2024,Mexico,Iowa,-55860.89175
+2025,Mexico,Iowa,-61006.85475
+2024,Mexico,Kansas,-213087.2952
+2025,Mexico,Kansas,-232573.0385
+2024,Mexico,Kentucky,-9552.075368
+2025,Mexico,Kentucky,-10456.27114
+2024,Mexico,Louisiana,-15076.27232
+2025,Mexico,Louisiana,-16481.42387
+2024,Mexico,Maine,1478.484593
+2025,Mexico,Maine,1611.293883
+2024,Mexico,Maryland,4338.166064
+2025,Mexico,Maryland,4686.188365
+2024,Mexico,Massachusetts,21210.82212
+2025,Mexico,Massachusetts,23114.44049
+2024,Mexico,Michigan,-38326.90724
+2025,Mexico,Michigan,-41922.3499
+2024,Mexico,Minnesota,-136475.7185
+2025,Mexico,Minnesota,-148962.3216
+2024,Mexico,Mississippi,1303.994295
+2025,Mexico,Mississippi,1398.465898
+2024,Mexico,Missouri,-38399.86627
+2025,Mexico,Missouri,-41945.84855
+2024,Mexico,Montana,-400.6180388
+2025,Mexico,Montana,-441.0474329
+2024,Mexico,Nebraska,-27505.68446
+2025,Mexico,Nebraska,-30087.39401
+2024,Mexico,Nevada,-139324.9828
+2025,Mexico,Nevada,-152228.9193
+2024,Mexico,New Hampshire,6970.839749
+2025,Mexico,New Hampshire,7599.541084
+2024,Mexico,New Jersey,63001.14539
+2025,Mexico,New Jersey,68625.13558
+2024,Mexico,New Mexico,-76252.31169
+2025,Mexico,New Mexico,-83361.2346
+2024,Mexico,New York,133616.4328
+2025,Mexico,New York,145543.4829
+2024,Mexico,North Carolina,-154834.9633
+2025,Mexico,North Carolina,-169131.1442
+2024,Mexico,North Dakota,3643.779918
+2025,Mexico,North Dakota,3971.720055
+2024,Mexico,Ohio,-697.733064
+2025,Mexico,Ohio,-816.6307051
+2024,Mexico,Oklahoma,-84149.00873
+2025,Mexico,Oklahoma,-91920.64527
+2024,Mexico,Oregon,-78031.36388
+2025,Mexico,Oregon,-85298.19308
+2024,Mexico,Pennsylvania,13590.50081
+2025,Mexico,Pennsylvania,14748.02771
+2024,Mexico,Rhode Island,-2976.213087
+2025,Mexico,Rhode Island,-3251.624945
+2024,Mexico,South Carolina,-2640.269083
+2025,Mexico,South Carolina,-2935.654744
+2024,Mexico,South Dakota,-10903.14436
+2025,Mexico,South Dakota,-11898.48094
+2024,Mexico,Tennessee,74101.42452
+2025,Mexico,Tennessee,80734.69301
+2024,Mexico,Texas,-2641612.369
+2025,Mexico,Texas,-2884802.493
+2024,Mexico,Utah,-119052.8907
+2025,Mexico,Utah,-130006.2642
+2024,Mexico,Vermont,-539.6872388
+2025,Mexico,Vermont,-589.3364843
+2024,Mexico,Virginia,52479.95661
+2025,Mexico,Virginia,57162.24867
+2024,Mexico,Washington,-133041.3951
+2025,Mexico,Washington,-145395.0618
+2024,Mexico,West Virginia,-5734.357436
+2025,Mexico,West Virginia,-6258.05583
+2024,Mexico,Wisconsin,-122216.4692
+2025,Mexico,Wisconsin,-133430.2731
+2024,Mexico,Wyoming,6391.523435
+2025,Mexico,Wyoming,6961.919828
+2024,United Kingdom,Alabama,643.2797998
+2025,United Kingdom,Alabama,695.6025297
+2024,United Kingdom,Alaska,6.479830641
+2025,United Kingdom,Alaska,5.444131111
+2024,United Kingdom,Arizona,6227.512457
+2025,United Kingdom,Arizona,6773.367331
+2024,United Kingdom,Arkansas,-2871.546401
+2025,United Kingdom,Arkansas,-3136.695021
+2024,United Kingdom,California,2975.431682
+2025,United Kingdom,California,3046.27056
+2024,United Kingdom,Colorado,-5505.997453
+2025,United Kingdom,Colorado,-6027.492705
+2024,United Kingdom,Connecticut,-9626.951839
+2025,United Kingdom,Connecticut,-10524.92727
+2024,United Kingdom,Delaware,-355.6847327
+2025,United Kingdom,Delaware,-390.2253803
+2024,United Kingdom,District of Columbia,-4767.471491
+2025,United Kingdom,District of Columbia,-5206.584215
+2024,United Kingdom,Florida,2115.169093
+2025,United Kingdom,Florida,2192.726214
+2024,United Kingdom,Georgia,-7237.723803
+2025,United Kingdom,Georgia,-7932.169813
+2024,United Kingdom,Hawaii,1155.485995
+2025,United Kingdom,Hawaii,1256.677471
+2024,United Kingdom,Idaho,-225.5169612
+2025,United Kingdom,Idaho,-248.8743335
+2024,United Kingdom,Illinois,1164.310402
+2025,United Kingdom,Illinois,1231.632535
+2024,United Kingdom,Indiana,1297.714677
+2025,United Kingdom,Indiana,1404.384176
+2024,United Kingdom,Iowa,-1286.816667
+2025,United Kingdom,Iowa,-1406.93689
+2024,United Kingdom,Kansas,280.2123849
+2025,United Kingdom,Kansas,301.2811299
+2024,United Kingdom,Kentucky,385.2785928
+2025,United Kingdom,Kentucky,414.5877221
+2024,United Kingdom,Louisiana,-1107.143522
+2025,United Kingdom,Louisiana,-1213.350687
+2024,United Kingdom,Maine,733.5030794
+2025,United Kingdom,Maine,796.6981084
+2024,United Kingdom,Maryland,-7765.396051
+2025,United Kingdom,Maryland,-8491.088404
+2024,United Kingdom,Massachusetts,-17947.68227
+2025,United Kingdom,Massachusetts,-19619.4002
+2024,United Kingdom,Michigan,2997.22544
+2025,United Kingdom,Michigan,3246.169294
+2024,United Kingdom,Minnesota,-7187.341169
+2025,United Kingdom,Minnesota,-7852.27531
+2024,United Kingdom,Mississippi,4104.01561
+2025,United Kingdom,Mississippi,4474.073654
+2024,United Kingdom,Missouri,278.5291209
+2025,United Kingdom,Missouri,294.4887978
+2024,United Kingdom,Montana,519.586314
+2025,United Kingdom,Montana,565.0433348
+2024,United Kingdom,Nebraska,-2429.025315
+2025,United Kingdom,Nebraska,-2651.949297
+2024,United Kingdom,Nevada,1698.014859
+2025,United Kingdom,Nevada,1842.793157
+2024,United Kingdom,New Hampshire,-4889.427963
+2025,United Kingdom,New Hampshire,-5340.340834
+2024,United Kingdom,New Jersey,-11053.7218
+2025,United Kingdom,New Jersey,-12110.98443
+2024,United Kingdom,New Mexico,172.7084416
+2025,United Kingdom,New Mexico,184.5022003
+2024,United Kingdom,New York,-46060.892
+2025,United Kingdom,New York,-50381.13945
+2024,United Kingdom,North Carolina,-8632.128769
+2025,United Kingdom,North Carolina,-9446.953243
+2024,United Kingdom,North Dakota,-724.0699569
+2025,United Kingdom,North Dakota,-790.8474482
+2024,United Kingdom,Ohio,-3683.120275
+2025,United Kingdom,Ohio,-4038.838611
+2024,United Kingdom,Oklahoma,-914.7318782
+2025,United Kingdom,Oklahoma,-1003.571285
+2024,United Kingdom,Oregon,167.7560814
+2025,United Kingdom,Oregon,170.8253449
+2024,United Kingdom,Pennsylvania,-5614.783247
+2025,United Kingdom,Pennsylvania,-6158.773046
+2024,United Kingdom,Rhode Island,151.0381236
+2025,United Kingdom,Rhode Island,161.3115452
+2024,United Kingdom,South Carolina,4984.208996
+2025,United Kingdom,South Carolina,5425.221534
+2024,United Kingdom,South Dakota,810.8080641
+2025,United Kingdom,South Dakota,884.0720415
+2024,United Kingdom,Tennessee,-2010.889231
+2025,United Kingdom,Tennessee,-2205.993353
+2024,United Kingdom,Texas,-10403.8091
+2025,United Kingdom,Texas,-11445.70462
+2024,United Kingdom,Utah,-7236.480358
+2025,United Kingdom,Utah,-7900.441573
+2024,United Kingdom,Vermont,-855.4186
+2025,United Kingdom,Vermont,-935.8020301
+2024,United Kingdom,Virginia,-10791.66492
+2025,United Kingdom,Virginia,-11801.30342
+2024,United Kingdom,Washington,4390.513539
+2025,United Kingdom,Washington,4754.134302
+2024,United Kingdom,West Virginia,312.9287876
+2025,United Kingdom,West Virginia,339.556241
+2024,United Kingdom,Wisconsin,-5250.699993
+2025,United Kingdom,Wisconsin,-5736.759574
+2024,United Kingdom,Wyoming,458.6770016
+2025,United Kingdom,Wyoming,499.251655
+2024,Pakistan,Alabama,-2351.377073
+2025,Pakistan,Alabama,-2571.001658
+2024,Pakistan,Alaska,1125.966663
+2025,Pakistan,Alaska,1227.459756
+2024,Pakistan,Arizona,545.6718692
+2025,Pakistan,Arizona,586.3896054
+2024,Pakistan,Arkansas,392.3755331
+2025,Pakistan,Arkansas,424.2368319
+2024,Pakistan,California,53690.51124
+2025,Pakistan,California,58377.37062
+2024,Pakistan,Colorado,1209.387716
+2025,Pakistan,Colorado,1313.454304
+2024,Pakistan,Connecticut,-14382.02371
+2025,Pakistan,Connecticut,-15710.56725
+2024,Pakistan,Delaware,-725.4048277
+2025,Pakistan,Delaware,-795.7733699
+2024,Pakistan,District of Columbia,237.9447391
+2025,Pakistan,District of Columbia,258.0738313
+2024,Pakistan,Florida,3337.303968
+2025,Pakistan,Florida,3594.742772
+2024,Pakistan,Georgia,12456.56217
+2025,Pakistan,Georgia,13553.02509
+2024,Pakistan,Hawaii,1149.369184
+2025,Pakistan,Hawaii,1252.836598
+2024,Pakistan,Idaho,-83.38747456
+2025,Pakistan,Idaho,-91.38339447
+2024,Pakistan,Illinois,-53872.43178
+2025,Pakistan,Illinois,-58857.19738
+2024,Pakistan,Indiana,-3956.917221
+2025,Pakistan,Indiana,-4325.647592
+2024,Pakistan,Iowa,1290.003141
+2025,Pakistan,Iowa,1403.712648
+2024,Pakistan,Kansas,867.460641
+2025,Pakistan,Kansas,940.3638852
+2024,Pakistan,Kentucky,57.26352076
+2025,Pakistan,Kentucky,57.03742634
+2024,Pakistan,Louisiana,-2954.321313
+2025,Pakistan,Louisiana,-3230.322142
+2024,Pakistan,Maine,1537.979167
+2025,Pakistan,Maine,1676.905881
+2024,Pakistan,Maryland,-17913.95222
+2025,Pakistan,Maryland,-19596.12809
+2024,Pakistan,Massachusetts,-11169.7948
+2025,Pakistan,Massachusetts,-12209.40592
+2024,Pakistan,Michigan,-13583.70391
+2025,Pakistan,Michigan,-14849.42186
+2024,Pakistan,Minnesota,-1490.492172
+2025,Pakistan,Minnesota,-1635.365663
+2024,Pakistan,Mississippi,-23.95008502
+2025,Pakistan,Mississippi,-27.96239338
+2024,Pakistan,Missouri,-4097.015848
+2025,Pakistan,Missouri,-4481.674054
+2024,Pakistan,Montana,189.6992544
+2025,Pakistan,Montana,206.8568451
+2024,Pakistan,Nebraska,-383.7789161
+2025,Pakistan,Nebraska,-420.2445881
+2024,Pakistan,Nevada,515.4673422
+2025,Pakistan,Nevada,555.8270876
+2024,Pakistan,New Hampshire,-1153.339577
+2025,Pakistan,New Hampshire,-1260.607635
+2024,Pakistan,New Jersey,-55463.31204
+2025,Pakistan,New Jersey,-60592.81342
+2024,Pakistan,New Mexico,-1214.938859
+2025,Pakistan,New Mexico,-1327.716866
+2024,Pakistan,New York,-104989.7444
+2025,Pakistan,New York,-114781.6743
+2024,Pakistan,North Carolina,8173.539153
+2025,Pakistan,North Carolina,8889.732317
+2024,Pakistan,North Dakota,-40.47187953
+2025,Pakistan,North Dakota,-44.61625214
+2024,Pakistan,Ohio,2538.254885
+2025,Pakistan,Ohio,2749.896296
+2024,Pakistan,Oklahoma,273.6105996
+2025,Pakistan,Oklahoma,290.0093584
+2024,Pakistan,Oregon,1032.99248
+2025,Pakistan,Oregon,1123.111515
+2024,Pakistan,Pennsylvania,7474.572004
+2025,Pakistan,Pennsylvania,8112.521806
+2024,Pakistan,Rhode Island,1713.411155
+2025,Pakistan,Rhode Island,1865.661813
+2024,Pakistan,South Carolina,34.05179203
+2025,Pakistan,South Carolina,34.10489346
+2024,Pakistan,South Dakota,505.6398915
+2025,Pakistan,South Dakota,551.0432629
+2024,Pakistan,Tennessee,-758.8932685
+2025,Pakistan,Tennessee,-835.4207457
+2024,Pakistan,Texas,14428.39139
+2025,Pakistan,Texas,15549.10516
+2024,Pakistan,Utah,1211.51447
+2025,Pakistan,Utah,1316.888699
+2024,Pakistan,Vermont,348.98696
+2025,Pakistan,Vermont,380.1787728
+2024,Pakistan,Virginia,-19603.75544
+2025,Pakistan,Virginia,-21483.28332
+2024,Pakistan,Washington,-1986.490436
+2025,Pakistan,Washington,-2186.236012
+2024,Pakistan,West Virginia,-9.005440351
+2025,Pakistan,West Virginia,-11.74152005
+2024,Pakistan,Wisconsin,1730.306089
+2025,Pakistan,Wisconsin,1877.779985
+2024,Pakistan,Wyoming,-202.008428
+2025,Pakistan,Wyoming,-220.4622731
+2024,Philippines,Alabama,-2666.57563
+2025,Philippines,Alabama,-2927.101521
+2024,Philippines,Alaska,-4223.034315
+2025,Philippines,Alaska,-4654.297122
+2024,Philippines,Arizona,-12183.40005
+2025,Philippines,Arizona,-13367.3969
+2024,Philippines,Arkansas,6651.100779
+2025,Philippines,Arkansas,7240.075426
+2024,Philippines,California,-13268.33796
+2025,Philippines,California,-16402.31284
+2024,Philippines,Colorado,-5871.617401
+2025,Philippines,Colorado,-6435.758597
+2024,Philippines,Connecticut,3798.76035
+2025,Philippines,Connecticut,4113.742184
+2024,Philippines,Delaware,-1920.156774
+2025,Philippines,Delaware,-2102.459615
+2024,Philippines,District of Columbia,-889.4329526
+2025,Philippines,District of Columbia,-977.5074913
+2024,Philippines,Florida,38522.8127
+2025,Philippines,Florida,41769.95582
+2024,Philippines,Georgia,4095.226818
+2025,Philippines,Georgia,4410.645959
+2024,Philippines,Hawaii,-13667.31757
+2025,Philippines,Hawaii,-15217.44711
+2024,Philippines,Idaho,72.40647992
+2025,Philippines,Idaho,68.98262654
+2024,Philippines,Illinois,36413.34988
+2025,Philippines,Illinois,39506.55906
+2024,Philippines,Indiana,2599.856598
+2025,Philippines,Indiana,2803.824221
+2024,Philippines,Iowa,1654.584962
+2025,Philippines,Iowa,1792.363996
+2024,Philippines,Kansas,134.1053912
+2025,Philippines,Kansas,128.4725341
+2024,Philippines,Kentucky,7217.03555
+2025,Philippines,Kentucky,7852.812647
+2024,Philippines,Louisiana,-3451.115792
+2025,Philippines,Louisiana,-3787.543933
+2024,Philippines,Maine,-1206.907948
+2025,Philippines,Maine,-1323.004156
+2024,Philippines,Maryland,9281.980527
+2025,Philippines,Maryland,10020.62879
+2024,Philippines,Massachusetts,447.1574205
+2025,Philippines,Massachusetts,457.3666421
+2024,Philippines,Michigan,9028.948284
+2025,Philippines,Michigan,9793.598644
+2024,Philippines,Minnesota,-3986.105857
+2025,Philippines,Minnesota,-4383.766426
+2024,Philippines,Mississippi,-4945.435012
+2025,Philippines,Mississippi,-5407.728596
+2024,Philippines,Missouri,1169.15913
+2025,Philippines,Missouri,1243.774634
+2024,Philippines,Montana,-1351.009348
+2025,Philippines,Montana,-1479.643646
+2024,Philippines,Nebraska,1009.287112
+2025,Philippines,Nebraska,1092.644512
+2024,Philippines,Nevada,-221.4452537
+2025,Philippines,Nevada,-426.5734571
+2024,Philippines,New Hampshire,-557.003892
+2025,Philippines,New Hampshire,-614.1100757
+2024,Philippines,New Jersey,7575.138288
+2025,Philippines,New Jersey,8064.642574
+2024,Philippines,New Mexico,-1808.609793
+2025,Philippines,New Mexico,-1990.44128
+2024,Philippines,New York,33217.01319
+2025,Philippines,New York,35969.5605
+2024,Philippines,North Carolina,6147.187333
+2025,Philippines,North Carolina,6646.928041
+2024,Philippines,North Dakota,8472.938306
+2025,Philippines,North Dakota,9238.265441
+2024,Philippines,Ohio,-5281.862674
+2025,Philippines,Ohio,-5833.682755
+2024,Philippines,Oklahoma,3652.360038
+2025,Philippines,Oklahoma,3964.758173
+2024,Philippines,Oregon,3248.807534
+2025,Philippines,Oregon,3508.794913
+2024,Philippines,Pennsylvania,2317.356451
+2025,Philippines,Pennsylvania,2475.816131
+2024,Philippines,Rhode Island,-1076.942128
+2025,Philippines,Rhode Island,-1179.475093
+2024,Philippines,South Carolina,-4408.460765
+2025,Philippines,South Carolina,-4835.010674
+2024,Philippines,South Dakota,-2580.19207
+2025,Philippines,South Dakota,-2819.183376
+2024,Philippines,Tennessee,35675.24645
+2025,Philippines,Tennessee,38860.05048
+2024,Philippines,Texas,24504.17149
+2025,Philippines,Texas,26475.8002
+2024,Philippines,Utah,-196.6816655
+2025,Philippines,Utah,-230.6159986
+2024,Philippines,Vermont,871.0330106
+2025,Philippines,Vermont,947.063013
+2024,Philippines,Virginia,9901.36475
+2025,Philippines,Virginia,10683.632
+2024,Philippines,Washington,9918.201882
+2025,Philippines,Washington,10655.45288
+2024,Philippines,West Virginia,-540.5855115
+2025,Philippines,West Virginia,-595.6332357
+2024,Philippines,Wisconsin,3297.211738
+2025,Philippines,Wisconsin,3571.096715
+2024,Philippines,Wyoming,808.4019075
+2025,Philippines,Wyoming,878.3102197
