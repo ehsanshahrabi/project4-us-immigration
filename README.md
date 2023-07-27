@@ -163,7 +163,9 @@ Model Fitting and Predictions:
 
 A Linear Regression model is fit on the training data, then used to predict on the test data (y_pred). The true and predicted values are stored in all_true and all_preds lists, respectively, for further calculation of evaluation metrics.
 
-Metrics Calculation: The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame.
+Metrics Calculation: 
+
+The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame.
 
 Future Predictions: 
 
