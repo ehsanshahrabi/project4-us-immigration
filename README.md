@@ -198,7 +198,7 @@ By comparing the actual data of 2019 with the predictions, we get a concrete ide
 
 ![Screenshot 2023-07-26 220636](https://github.com/ehsanshahrabi/project4/assets/124327258/8f25dfdc-dde3-4f72-9834-fd44565f5e16)
 
-## 5- Analytics & Visualizations powered by Tabelou:
+## 5- Analytics & Visualizations powered by Tableau:
 
 Predictions for immigrants from China in 2024 and 2025
 
