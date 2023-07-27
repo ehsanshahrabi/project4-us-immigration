@@ -6,7 +6,7 @@
 Ehsan Shahrabi, Mirian Ruanova, Yi Pan & Amna Hussain
 
 ## Project Overview
-We’re focusing on US Immigration over 15 years from 8 countries specifically: China, Dominican Republic, United Kingdom, Mexico, Iran,
+We’re focusing on US Immigration over 15 years from 7 countries specifically: China, Dominican Republic, United Kingdom, Mexico, Iran,
 India, Pakistan and Philippines. From those countries, we want to determine how many people are migrating to the US and which state they are settling to. To do this, we'll create a Machine Learning model that is able to predict the number of permanent residents for the next couple years using data from the Department of Homeland Security, US Census Bureau and the World Bank Group. 
 
 ## Immigration Statistics:
@@ -57,7 +57,7 @@ We start perediction and find final ML model with following Jupiter notbook file
 
 5- Analytics and Visualization.
 
-### 1- Prophet model:
+## 1- Prophet model:
 
 #### Data Sources
 
@@ -89,7 +89,7 @@ For each combination of country and US state, the code performs the following st
 6. Predicting migration values for the year 2019 and 2023 using the trained model.
 7. Calculating metrics such as Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Squared Error (RMSE), Median Absolute Error (MEDAE), and Coefficient of Variation of RMSE (CVRMSE) for the predictions.
 
-#### Random Forest Regressor (Data Model Optimization)
+### Random Forest Regressor (Data Model Optimization)
 
 The analysis uses a *Random Forest Regressor* to identify the *three most important features* for predicting migration trends. These important features are then included as regressors in the Prophet model to enhance the prediction accuracy.
 
@@ -113,7 +113,7 @@ Migration Prediction for Multiple Countries and States:
 
 The analysis is performed for 7 countries and 50 US states, resulting in a total of 350 predictions. The results are stored in a DataFrame named "results_df," which includes various metrics for each country and US state combination. 
 
-### 2- Neural network model  :
+## 2- Neural network model  :
 
 Data:
 
@@ -137,7 +137,7 @@ The dataset is split into a training and a test set with 80% of the data used fo
 
 The model's performance is evaluated using various error metrics, including Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Coefficient of Variation of Root Mean Squared Error (CVRMSE).
 
-### 3- ARIMA, SARIMAX, RandomForestRegressor, and Linear Regression: 
+## 3- ARIMA, SARIMAX, RandomForestRegressor, and Linear Regression: 
 
 #### ML-LinearRegression.ipynb: 
 
@@ -180,7 +180,7 @@ This notebook utilizes the Random Forest Regressor, a versatile ensemble learnin
 #### ML-SARIMAX.ipynb: 
 This script leverages the SARIMAX model, which extends the ARIMA model by incorporating seasonal components and exogenous regressors. The loop structure used for data preprocessing is similar to the other scripts but is adjusted to meet the SARIMAX model's needs.
 
-### 4- Final Machine Learning model:
+## 4- Final Machine Learning model:
 
 #### Best Performing Model
 
@@ -203,7 +203,7 @@ By comparing the actual data of 2019 with the predictions, we get a concrete ide
 
 ![Screenshot 2023-07-26 220636](https://github.com/ehsanshahrabi/project4/assets/124327258/8f25dfdc-dde3-4f72-9834-fd44565f5e16)
 
-### 5- Analytics & Visualizations powered by Tabelou:
+## 5- Analytics & Visualizations powered by Tabelou:
 
 Predictions for immigrants from China in 2024 and 2025
 
@@ -234,7 +234,7 @@ Predictions for immigrants from United Kingdom in 2024 and 2025
 ![Screenshot 2023-07-26 221705](https://github.com/ehsanshahrabi/project4/assets/124327258/e186b9c1-c472-4f27-83e1-2ea16291a130)
 
 
-#### Analytics:
+### Analytics:
 From our 8 countries, the top 5 states vary slightly with California, New York, New Jersey and Texas almost always being present. 
 
 For the same 4 states above, immigrants make up more than 20% of their state population.
@@ -245,7 +245,7 @@ We’re also predicting that the number of Filipino, Mexican and British immigra
 
 Pakistani immigrants, in contrast, are the only group we predict will decrease in its number. 
 
-### Disclaimer
+## Disclaimer
 This project is educational and should not be used to predict actual immigration patterns. Models are trained on historical data (2005-2019) and do not account for future unknowns such as policy changes, economic shifts, or geopolitical events. The predictions should not be used for actual decision-making or policy formation. Treat this project as a learning tool, not as a definitive predictor of future immigration trends.
  
 
