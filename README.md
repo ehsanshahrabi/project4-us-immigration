@@ -6,7 +6,7 @@
 Ehsan Shahrabi, Mirian Ruanova, Yi Pan & Amna Hussain
 
 ## Project Overview
-We’re focusing on US Immigration over 15 years from 7 countries specifically: China, Dominican Republic, United Kingdom, Mexico, Iran,
+We’re focusing on US Immigration over 15 years from 8 countries specifically: China, Dominican Republic, United Kingdom, Mexico, Iran,
 India, Pakistan and Philippines. From those countries, we want to determine how many people are migrating to the US and which state they are settling to. To do this, we'll create a Machine Learning model that is able to predict the number of permanent residents for the next couple years using data from the Department of Homeland Security, US Census Bureau and the World Bank Group. 
 
 ## Immigration Statistics:
