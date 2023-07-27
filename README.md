@@ -244,6 +244,9 @@ Based on our predicted data, we can see that there will be an increase of Chines
 We’re also predicting that the number of Filipino, Mexican and British immigrants will stay roughly the same as their previous years.
 
 Pakistani immigrants, in contrast, are the only group we predict will decrease in its number. 
+
+### Disclaimer
+This project is educational and should not be used to predict actual immigration patterns. Models are trained on historical data (2005-2019) and do not account for future unknowns such as policy changes, economic shifts, or geopolitical events. The predictions should not be used for actual decision-making or policy formation. Treat this project as a learning tool, not as a definitive predictor of future immigration trends.
  
 
 
