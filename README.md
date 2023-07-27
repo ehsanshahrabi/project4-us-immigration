@@ -9,20 +9,6 @@ Ehsan Shahrabi, Mirian Ruanova, Yi Pan & Amna Hussain
 We’re focusing on US Immigration over 15 years from 8 countries specifically: China, Dominican Republic, United Kingdom, Mexico, Iran,
 India, Pakistan and Philippines. From those countries, we want to determine how many people are migrating to the US and which state they are settling to. To do this, we'll create a Machine Learning model that is able to predict the number of permanent residents for the next couple years using data from the Department of Homeland Security, US Census Bureau and the World Bank Group. 
 
-## Index
-- Immigration Statistics
-- Predictions
-- Data Overview
-- Machine Model Testing:
-  - Linear Regression
-  - Prophet Model
-  - ARIMA
-  - SARIMAX
-  - Neural Networks
-  - Random Forest Regressor
-- Our Findings using Linear Regression
-- Summary
-
 ## Immigration Statistics:
 We wanted to explore the concept of immigration and its significance before diving into our data. The US Census Bureau reveals that almost 20% of the world’s migrants live in the United States and there are 45.3 million immigrants in the United States as of 2021. That’s 13.6% of the total U.S. population, just below the 13.7% high in 2019. People from Mexico, China, and India are the largest US immigrant groups. Immigrants from Mexico have been the most numerous since 1980, whereas the influx of immigrants from India and China have only grown since 2013. In general, there are more female than male immigrants coming in to the US with about 51% of all U.S. immigrants being female in 2021. 18 million out of 69.7 million U.S. children under the age of 18 lived with atleast one immigrant parent in 2021. Overall, 1,031,765 people immigrated to the US and became permanent residents in 2019. 
 
@@ -58,7 +44,7 @@ Load: The final cleaned data is saved to a new CSV file. Ehsan's Portion/Resourc
 
 Additionally, it is also creat a SQLite database to meet project requirements.Ehsan's Portion/Resources/immigration_selected_2005_2019_sqlite.sqlite
 
-## Predictions with Machine Learning steps:
+## Predictions with Machine Learning steps, Analytics and Visualization: 
 We start perediction and find final ML model with following Jupiter notbook files:
 
 1- In Mirian's folder : Prophel Model (Mirian's folder/Prophet_2019_metrics.ipynb)
@@ -196,7 +182,7 @@ This script leverages the SARIMAX model, which extends the ARIMA model by incorp
 
 ### 4- Final Machine Learning model:
 
-### Best Performing Model
+#### Best Performing Model
 
 Upon rigorous testing and validation, the Linear Regression model (ML-LinearRegression.ipynb) yielded the best performance overall. Factors such as model robustness, simplicity, and its capability of generating accurate predictions contributed to its superior performance compared to the other models.
 
@@ -216,6 +202,54 @@ The true test of a model's performance lies in its ability to predict unseen dat
 By comparing the actual data of 2019 with the predictions, we get a concrete idea of the model's performance and its ability to handle real-world, future data. This also helps us to understand whether our model is underfitting or overfitting the training data and allows us to make necessary adjustments to improve the model's performance.
 
 ![Screenshot 2023-07-26 220636](https://github.com/ehsanshahrabi/project4/assets/124327258/8f25dfdc-dde3-4f72-9834-fd44565f5e16)
+
+### 5- Analytics & Visualizations powered by Tabelou:
+
+Predictions for immigrants from China in 2024 and 2025
+
+![Screenshot 2023-07-26 221221](https://github.com/ehsanshahrabi/project4/assets/124327258/af398343-5a1f-4dec-b12a-2cf5748d5e72)
+
+Predictions for immigrants from Dominican Republic in 2024 and 2025
+
+![Screenshot 2023-07-26 221301](https://github.com/ehsanshahrabi/project4/assets/124327258/90a6c612-0774-4de0-ac71-4f27717fa0c6)
+
+Predictions for immigrants from India in 2024 and 2025
+
+![Screenshot 2023-07-26 221348](https://github.com/ehsanshahrabi/project4/assets/124327258/fcbf7d07-f5e9-4b88-82df-e94a3602fa1f)
+
+Predictions for immigrants from Mexico in 2024 and 2025
+
+![Screenshot 2023-07-26 221413](https://github.com/ehsanshahrabi/project4/assets/124327258/849b87c2-cdfb-4381-a9b2-ba935fed0ac9)
+
+Predictions for immigrants from Pakistan in 2024 and 2025
+
+![Screenshot 2023-07-26 221519](https://github.com/ehsanshahrabi/project4/assets/124327258/e3c3ae88-8e07-48cb-83b0-522bf6a29e0b)
+
+Predictions for immigrants from Philippines in 2024 and 2025
+
+![Screenshot 2023-07-26 221655](https://github.com/ehsanshahrabi/project4/assets/124327258/ced2878b-a02a-43ca-846a-bed8aacc3dfa)
+
+Predictions for immigrants from United Kingdom in 2024 and 2025
+
+![Screenshot 2023-07-26 221705](https://github.com/ehsanshahrabi/project4/assets/124327258/e186b9c1-c472-4f27-83e1-2ea16291a130)
+
+
+#### Analytics:
+From our 8 countries, the top 5 states vary slightly with California, New York, New Jersey and Texas almost always being present. 
+
+For the same 4 states above, immigrants make up more than 20% of their state population.
+
+Based on our predicted data, we can see that there will be an increase of Chinese and Indian immigrants from their previous years – majority of both settling in California.
+
+We’re also predicting that the number of Filipino, Mexican and British immigrants will stay roughly the same as their previous years.
+
+Pakistani immigrants, in contrast, are the only group we predict will decrease in its number. 
+ 
+
+
+
+
+
 
 
 
