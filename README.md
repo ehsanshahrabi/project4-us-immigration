@@ -188,7 +188,7 @@ This notebook utilizes the Random Forest Regressor, a versatile ensemble learnin
 ## 6- ML-SARIMAX.ipynb: 
 This script leverages the SARIMAX model, which extends the ARIMA model by incorporating seasonal components and exogenous regressors. The loop structure used for data preprocessing is similar to the other scripts but is adjusted to meet the SARIMAX model's needs.
 
-## 4- Final Machine Learning model:
+## 7- Final Machine Learning model:
 
 #### Best Performing Model
 
@@ -204,7 +204,7 @@ By comparing the actual data of 2019 with the predictions, we get a concrete ide
 
 ![Screenshot 2023-07-26 220636](https://github.com/ehsanshahrabi/project4/assets/124327258/8f25dfdc-dde3-4f72-9834-fd44565f5e16)
 
-## 5- Analytics & Visualizations powered by Tableau:
+## 8- Analytics & Visualizations powered by Tableau:
 
 Predictions for immigrants from China in 2024 and 2025
 
