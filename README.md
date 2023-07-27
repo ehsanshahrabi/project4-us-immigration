@@ -51,7 +51,8 @@ To improve model performance and *avoid training the model with negative values*
 
 The Mean Absolute Percentage Error (MAPE) is used as the evaluation metric for the Prophet model's predictions. The MAPE measures the accuracy of the model in predicting the future migration numbers. We have created  a *heatmap* to analyze and compare the overall MAPE results.
 
-[Heatmap](https://github.com/ehsanshahrabi/project4/blob/mirian/Hetmap2019.JPG)
+![Hetmap2019](https://github.com/ehsanshahrabi/project4/assets/124327258/ee727e5a-698d-4c75-8bb4-dfe2449806aa)
+
 
 ## Migration Prediction for Multiple Countries and States
 
