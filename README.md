@@ -165,13 +165,13 @@ A Linear Regression model is fit on the training data, then used to predict on t
 
 Metrics Calculation: 
 
-The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame.
+The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame. (Ehsan's Portion/Scores)
 
 Future Predictions: 
 
 The model is used to make immigration predictions for the next years (2020 to 2025), and the predictions are stored in the df_predictions DataFrame.
 
-The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use.
+The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use. (Ehsan's Portion/Results) & (Ehsan's Portion/Scores)
 
 #### ML-ARIMA.ipynb: 
 This script employs the ARIMA model, a widely-used forecasting method that leverages information from past values for future predictions. The loop structure for data preprocessing is akin to ML-LinearRegression.ipynb, with minor adjustments to accommodate the ARIMA model's requirements.
