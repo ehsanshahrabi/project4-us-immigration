@@ -186,7 +186,7 @@ This script leverages the SARIMAX model, which extends the ARIMA model by incorp
 
 #### Best Performing Model
 
-Upon rigorous testing and validation, the Linear Regression model (ML-LinearRegression.ipynb) yielded the best performance overall. Factors such as model robustness, simplicity, and its capability of generating accurate predictions contributed to its superior performance compared to the other models.
+Upon testing and validation, the Linear Regression model (ML-LinearRegression.ipynb) yielded the best performance overall.
 
 #### Performance Evaluation for Predictions
 We initially use a dataset spanning from 2005 to 2019 to train our models and generate predictions. After this initial analysis, we further test our model's performance by using a slightly modified dataset.
