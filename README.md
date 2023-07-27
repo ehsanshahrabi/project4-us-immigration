@@ -169,7 +169,7 @@ The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean 
 
 Future Predictions: 
 
-The model is used to make immigration predictions for the next years (2020 to 2025), and the predictions are stored in the df_predictions DataFrame.
+The model is used to make immigration predictions for the next years (2024 and 2025), and the predictions are stored in the df_predictions DataFrame.
 
 The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use. (Ehsan's Portion/Results) & (Ehsan's Portion/Scores)
 
@@ -189,7 +189,7 @@ This script leverages the SARIMAX model, which extends the ARIMA model by incorp
 Upon rigorous testing and validation, the Linear Regression model (ML-LinearRegression.ipynb) yielded the best performance overall. Factors such as model robustness, simplicity, and its capability of generating accurate predictions contributed to its superior performance compared to the other models.
 
 #### Performance Evaluation for Predictions
-We initially use a dataset spanning from 2005 to 2019 to train our models and generate predictions. After this initial analysis, we further test our model's performance by using a slightly modified dataset.
+We use a dataset spanning from 2005 to 2019 to train our models and generate predictions. After this initial analysis, we further test our model's performance by using a slightly modified dataset.
 
 In the modified dataset, we exclude the data for the year 2019 and retrain our model using data only up to 2018. We then use our trained model to generate predictions for the year 2019.
 Linear Regression has shown the best performance.
