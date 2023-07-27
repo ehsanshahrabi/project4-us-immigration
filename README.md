@@ -169,7 +169,7 @@ The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean 
 
 Future Predictions: 
 
-The model is used to make immigration predictions for the next years (2020 to 2025), and the predictions are stored in the df_predictions DataFrame.
+The model is used to make immigration predictions for the next years (2024 & 2025), and the predictions are stored in the df_predictions DataFrame.
 
 The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use. (Ehsan's Portion/Results) & (Ehsan's Portion/Scores)
 
