@@ -188,18 +188,11 @@ This script leverages the SARIMAX model, which extends the ARIMA model by incorp
 
 Upon rigorous testing and validation, the Linear Regression model (ML-LinearRegression.ipynb) yielded the best performance overall. Factors such as model robustness, simplicity, and its capability of generating accurate predictions contributed to its superior performance compared to the other models.
 
-However, the choice of model may vary depending on the specifics of the problem at hand and the nature of the data. It's recommended to consider other models and approaches and choose the one that best aligns with your needs.
-
-For a detailed walkthrough of the ML-LinearRegression.ipynb script, please refer to the earlier section in this README file. For the remaining notebooks, you can refer to the inline comments within each script for an in-depth understanding of the individual steps.
-
-Performance Evaluation for Predictions
-Evaluating the performance of the model is a critical step in the machine learning pipeline. It enables us to understand the efficacy of our model in making reliable and accurate predictions.
-
-In these notebooks, we initially use a dataset spanning from 2005 to 2019 to train our models and generate predictions. After this initial analysis, we further test our model's performance by using a slightly modified dataset.
+#### Performance Evaluation for Predictions
+We initially use a dataset spanning from 2005 to 2019 to train our models and generate predictions. After this initial analysis, we further test our model's performance by using a slightly modified dataset.
 
 In the modified dataset, we exclude the data for the year 2019 and retrain our model using data only up to 2018. We then use our trained model to generate predictions for the year 2019.
-
-The true test of a model's performance lies in its ability to predict unseen data accurately. Therefore, we compare the predictions made by the model for 2019 with the actual data from 2019, which we had excluded earlier. This gives us a measure of how well our model is likely to perform on new, unseen data.
+Linear Regression has shown the best performance.
 
 By comparing the actual data of 2019 with the predictions, we get a concrete idea of the model's performance and its ability to handle real-world, future data. This also helps us to understand whether our model is underfitting or overfitting the training data and allows us to make necessary adjustments to improve the model's performance.
 
