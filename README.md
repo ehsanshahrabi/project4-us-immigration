@@ -14,9 +14,9 @@ We wanted to explore the concept of immigration and its significance before divi
 
 ## Data Sources, Data Delivery, and ETL Process:
 
-The dataset used in this notebook, Ehsan's Portion/immigration_Data_and_data_delivery_ETL.ipynb, encompasses immigration data from 2005 to 2019. This data includes records of region and country of birth of immigrants, and the total number of permanent residents for each year.
+The dataset used in this notebook, immigration_Data_and_data_delivery_ETL.ipynb, encompasses immigration data from 2005 to 2019. This data includes records of region and country of birth of immigrants, and the total number of permanent residents for each year.
 
-The data is delivered in Excel file format with each file corresponding to a single year. The data files are stored in a directory named Resources (in Ehsan's Portion)
+The data is delivered in Excel file format with each file corresponding to a single year. The data files are stored in a directory named Resources
 
 #### The ETL (Extract, Transform, Load) process for the data consists of the following steps:
 
@@ -40,22 +40,28 @@ Rounding the 'Percentage' values to two decimal places
 
 Identifying the top 10 countries by percentage of total immigration for each year
 
-Load: The final cleaned data is saved to a new CSV file. Ehsan's Portion/Resources/immigration_selected_2005_2019.csv
+Load: The final cleaned data is saved to a new CSV file. Resources/immigration_selected_2005_2019.csv
 
-Additionally, it is also creat a SQLite database to meet project requirements.Ehsan's Portion/Resources/immigration_selected_2005_2019_sqlite.sqlite
+Additionally, it is also creat a SQLite database to meet project requirements. Database/immigration_selected_2005_2019_sqlite.sqlite
 
 ## Predictions with Machine Learning steps, Analytics and Visualization: 
 We start perediction and find final ML model with following Jupiter notbook files:
 
-1- In Mirian's folder : Prophel Model (Mirian's folder/Prophet_2019_metrics.ipynb)
+1- Prophel Model (Prophet_2019_metrics.ipynb)
 
-2- In Yi's Portion : Neural network model  (Yi's Portion/neural.ipynb)
+2- Neural network model  (neural.ipynb)
 
-3- in Ehsan's Portion : These notebooks include different machine learning models such as ARIMA, SARIMAX, RandomForestRegressor, and Linear Regression. ( Ehsan's Portion/ML-ARIMA.ipynb, Ehsan's Portion/ML-RandomForestRegressor.ipynb, Ehsan's Portion/ML-SARIMAX.ipynb, Ehsan's Portion/ML-LinearRegression.ipynb)
+3- Linear Regression (ML-LinearRegression.ipynb)
 
-4- Final Machine Learning model.
+4- SARIMAX (ML-SARIMAX.ipynb)
 
-5- Analytics and Visualization.
+5- ARIMA (ML-ARIMA.ipynb)
+
+6- RandomForestRegressor (ML-RandomForestRegressor.ipynb)  
+
+7- Final Machine Learning model.
+
+8- Analytics and Visualization.
 
 ## 1- Prophet model:
 
@@ -117,7 +123,7 @@ The analysis is performed for 7 countries and 50 US states, resulting in a total
 
 Data:
 
-The data used in these notebooks is stored in an SQLite database (Resources/immigration_selected_2005_2019_sqlite.sqlite), which includes immigration information from various countries to multiple states in the US between 2005 and 2019.
+The data used in these notebooks is stored in an SQLite database (immigration_selected_2005_2019_sqlite.sqlite), which includes immigration information from various countries to multiple states in the US between 2005 and 2019.
 
 The dataset (sample.csv) contains the following columns: 'Year', 'Country Name', 'State', 'Fertility rate_country', 'GDP per capita_country', 'Gini index_country', 'Unemployment_country', 'Unemployment Rate', 'per capita personal Income', and 'Population Count'.
 
@@ -137,7 +143,7 @@ The dataset is split into a training and a test set with 80% of the data used fo
 
 The model's performance is evaluated using various error metrics, including Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Coefficient of Variation of Root Mean Squared Error (CVRMSE).
 
-## 3- ARIMA, SARIMAX, RandomForestRegressor, and Linear Regression: 
+## 3- Linear Regression: 
 
 #### ML-LinearRegression.ipynb: 
 
@@ -165,21 +171,21 @@ A Linear Regression model is fit on the training data, then used to predict on t
 
 Metrics Calculation: 
 
-The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame. (Ehsan's Portion/Scores)
+The Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Coefficient of Variation of the RMSE (CVRMSE) are calculated for each state-country pair and appended to the df_scores DataFrame. (ML Models/ML-Scores)
 
 Future Predictions: 
 
 The model is used to make immigration predictions for the next years (2024 & 2025), and the predictions are stored in the df_predictions DataFrame.
 
-The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use. (Ehsan's Portion/Results) & (Ehsan's Portion/Scores)
+The loop structure allows the script to efficiently process a large amount of data and apply the same procedures to each country-state pair. Finally, the df_scores and df_predictions DataFrames are saved to .csv files, providing the model's performance metrics and immigration predictions for future use. (ML Models/ML-Results) & (ML Models/ML-Scores)
 
-#### ML-ARIMA.ipynb: 
+## 4- ML-ARIMA.ipynb: 
 This script employs the ARIMA model, a widely-used forecasting method that leverages information from past values for future predictions. The loop structure for data preprocessing is akin to ML-LinearRegression.ipynb, with minor adjustments to accommodate the ARIMA model's requirements.
 
-#### ML-RandomForestRegressor.ipynb: 
+## 5- ML-RandomForestRegressor.ipynb: 
 This notebook utilizes the Random Forest Regressor, a versatile ensemble learning method known for its high predictive power. The data processing loop structure mirrors the one used in ML-LinearRegression.ipynb, with changes in model fitting and predictions to accommodate the Random Forest Regressor.
 
-#### ML-SARIMAX.ipynb: 
+## 6- ML-SARIMAX.ipynb: 
 This script leverages the SARIMAX model, which extends the ARIMA model by incorporating seasonal components and exogenous regressors. The loop structure used for data preprocessing is similar to the other scripts but is adjusted to meet the SARIMAX model's needs.
 
 ## 4- Final Machine Learning model:
@@ -229,7 +235,7 @@ Predictions for immigrants from United Kingdom in 2024 and 2025
 ![Screenshot 2023-07-26 221705](https://github.com/ehsanshahrabi/project4/assets/124327258/e186b9c1-c472-4f27-83e1-2ea16291a130)
 
 
-### Analytics:
+## Analytics:
 From our 8 countries, the top 5 states vary slightly with California, New York, New Jersey and Texas almost always being present. 
 
 For the same 4 states above, immigrants make up more than 20% of their state population.
