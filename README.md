@@ -24,7 +24,7 @@ Our Findings using Linear Regression
 Summary
 
 ## Immigration Statistics:
-We wanted to explore the concept of immigration and its significance before diving into our data. The US Census Bureau reveals that almost 20% of the world’s migrants live in the United States and there are 45.3 million immigrants in the United States as of 2021. That’s 13.6% of the total U.S. population, just below the 13.7% high in 2019. People from Mexico, China, and India are the largest US immigrant groups. Mexico 
-✽ About 51% of all U.S. immigrants were female in 2021
-✽ 18 million out of 69.7 million U.S. children under the age of 18 lived with at
-least one immigrant parent in 2021
+We wanted to explore the concept of immigration and its significance before diving into our data. The US Census Bureau reveals that almost 20% of the world’s migrants live in the United States and there are 45.3 million immigrants in the United States as of 2021. That’s 13.6% of the total U.S. population, just below the 13.7% high in 2019. People from Mexico, China, and India are the largest US immigrant groups. Immigrants from Mexico have been the most numerous since 1980, whereas the influx of immigrants from India and China have only grown since 2013. In general, there are more female than male immigrants coming in to the US with about 51% of all U.S. immigrants being female in 2021. 18 million out of 69.7 million U.S. children under the age of 18 lived with atleast one immigrant parent in 2021.
+
+## Predictions
+
